@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Pedro Redivo Ferreira!
 
-I'm from Brazil 🇧🇷, currently based in Porto Alegre. I'm a Software Engineering student at PUCRS 🎓 and a Software Development Intern at the Polícia Civil do Estado do Rio Grande do Sul 🚔, working on the Atlas investigative data platform. I'm passionate about fullstack development, clean architecture, and building impactful solutions. When I'm not coding or studying, I really enjoy following sports ⚽🥊, exploring the gaming world 🎮, and spending time at the beach 🏖️.
+I'm from Brazil 🇧🇷, currently based in Porto Alegre. I'm a Software Engineering student at PUCRS 🎓 and a Software Development Intern at the Polícia Civil do Estado do Rio Grande do Sul 🚔, working on the investigative data platform. I'm passionate about fullstack development, clean architecture, and building impactful solutions. When I'm not coding or studying, I really enjoy following sports ⚽🥊, exploring the gaming world 🎮, and spending time at the beach 🏖️.
 
 💻 **I code with:**
 
