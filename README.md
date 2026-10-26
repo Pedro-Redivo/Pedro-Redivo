@@ -23,8 +23,10 @@ I'm from Brazil 🇧🇷, currently based in Porto Alegre. I'm a Software Engine
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Follow and connect**
-![Instagram](https://www.instagram.com/pedroredivo_/)
+**Follow and connect with me:**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/pedroredivo_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-redivo-ferreira-15965a394/)
 
 🌎 **Languages Proficiency:**
 
